@@ -1,0 +1,23 @@
+Beberapa fitur unggulan untuk sistem perpustakaan yang bisa Anda pertimbangkan, antara lain:
+
+Manajemen Peminjaman: Fitur ini memungkinkan pengguna untuk meminjam dan mengembalikan buku. Sistem juga dapat mengingatkan pengguna tentang tanggal pengembalian buku dan memungkinkan perpanjangan masa peminjaman.
+
+Manajemen Koleksi: Fitur ini memungkinkan administrator untuk mengelola koleksi buku perpustakaan, termasuk menambahkan buku baru, mengedit informasi buku, dan menghapus buku yang tidak lagi diperlukan.
+
+Manajemen Anggota: Fitur ini memungkinkan pengguna untuk mendaftar sebagai anggota perpustakaan dan mengelola informasi pribadi mereka, seperti alamat dan nomor telepon.
+
+Cari Buku: Fitur ini memungkinkan pengguna untuk mencari buku berdasarkan judul, pengarang, atau kategori buku.
+
+Statistik Perpustakaan: Fitur ini memungkinkan administrator untuk melihat statistik penggunaan perpustakaan, seperti jumlah peminjaman buku per bulan, kategori buku paling populer, dan pengguna yang paling sering meminjam buku.
+
+Untuk teknologi yang digunakan, CodeIgniter adalah kerangka kerja PHP yang ringan dan mudah dipelajari. Beberapa teknologi yang dapat digunakan untuk mengembangkan sistem perpustakaan dengan CodeIgniter, antara lain:
+
+Database: Anda dapat menggunakan database MySQL atau MariaDB untuk menyimpan data buku, anggota perpustakaan, dan informasi peminjaman.
+
+Bootstrap: Bootstrap adalah kerangka kerja CSS dan JavaScript yang dapat membantu Anda membuat antarmuka pengguna yang responsif dan menarik.
+
+jQuery: jQuery adalah pustaka JavaScript yang berguna untuk membuat interaksi yang kompleks dan efek animasi pada halaman web.
+
+PHPMailer: PHPMailer adalah pustaka PHP yang berguna untuk mengirim email dari aplikasi web Anda. Anda dapat menggunakannya untuk mengirim email pemberitahuan kepada pengguna tentang peminjaman atau pengembalian buku.
+
+TCPDF: TCPDF adalah pustaka PHP yang berguna untuk menghasilkan dokumen PDF. Anda dapat menggunakannya untuk membuat laporan peminjaman atau pengembalian buku yang dapat diunduh oleh administrator atau pengguna.
